@@ -1,0 +1,7 @@
+﻿body {
+    background-color: aquamarine !important;
+}
+.img-thumbnail{
+    height: 343px !important;
+    object-fit: cover;
+}

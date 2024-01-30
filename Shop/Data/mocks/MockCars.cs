@@ -19,6 +19,7 @@ namespace Shop.Data.mocks
                         name = "Tesla Model S",
                         shortDesc = "Быстрый автомобиль",
                         longDesc = "Красивый, быстрый и очень тихий автомобиль компании Tesla",
+                        //img = "/img/tesla.jpg"
                         img = "https://110km.ru/attachment/9bef71e81d7da1df881ba957df2e12187a480b2f/6720421acca7ce1cef1cdee2dd3ca9a7.jpg",
                         price = 45000,
                         isFavorite = true,
